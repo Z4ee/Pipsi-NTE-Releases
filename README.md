@@ -26,9 +26,16 @@
 
 #### World
 
-- Global Speed Changer
+- Auto Skip Cutscene
+- Auto Skip Dialogue
+
+#### Visuals
+
+- ESP
+- FPS Indicator
 
 #### Misc
 
 - Load/Save/Reset Config
 - Custom Menu Scale
+- FPS Unlocker
