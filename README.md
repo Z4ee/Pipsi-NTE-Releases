@@ -22,17 +22,28 @@
 
 - God Mode
 - Multi Hit
+- No Crime Behavior
 - Player Speed Changer
+- Noclip
+
+#### Teleports
+
+- Custom Teleport
 
 #### World
 
+- Auto Fishing
+- Auto Quest
 - Auto Skip Cutscene
 - Auto Skip Dialogue
+- Kill Aura
+- Mob Vacuum
 
 #### Visuals
 
 - ESP
 - FPS Indicator
+- Peeking
 
 #### Misc
 
